@@ -46,8 +46,9 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=spydeey&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center" width="100%">
+<img src="https://github-stats-alpha.vercel.app/api/?username=spydeey&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center" width="100%">name
 </p>
 
-<p>
+<>
+Hi there 👋  My name is A😎, I am a  Full-Stack Developer with a hidden side-love for digital marketing.  My web journey began all the way back in 2021 when I was 22-years old and started a small gig doing SEO work for websites. I’d optimise the scriptdata, the texts, and do some link building. This got me interested in websites Development 
 </p>
