@@ -13,7 +13,7 @@ Age = "16"
 Country = "🇮🇳"
 ```
 #### 
-[![telegram badge](https://img.shields.io/badge/CrowCoder-30302f?style=for-the-badge&logo=telegram)](https://t.me/genaral07)
+[![telegram badge](https://img.shields.io/badge/CrowCoder-30302f?style=for-the-badge&logo=telegram)](https://t.me/genaral7)
 <p align="left"> <img src="https:
 
 
