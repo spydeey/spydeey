@@ -45,4 +45,4 @@ Spydeey is a ✨ special ✨ repository because its `README.md` (this file) appe
 You can click the Preview link to take a look at your changes.
 </details>
 
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=termux-package-basic&theme=nightowl)](https://github.com/terror-boy/termux-package-basic)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=spydeey&repo=Aboutme&theme=nightowl)](https://github.com/terror-boy/termux-package-basic)
