@@ -15,7 +15,7 @@ Country = "🇮🇳"
 
 ```
 #### 
-[![telegram badge](https://img.shields.io/badge/CrowCoder-30302f?style=for-the-badge&logo=telegram)](https://t.me/genaral7)
+[![telegram badge](https://img.shields.io/badge/ContactMe-30302f?style=for-the-badge&logo=telegram)](https://t.me/genaral7)
 
 
 
@@ -45,4 +45,9 @@ Spydeey is a ✨ special ✨ repository because its `README.md` (this file) appe
 You can click the Preview link to take a look at your changes.
 </details>
 
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=spydeey&repo=About-Me&theme=nightowl)(https://github.com/spydeey/About-Me)
+<p align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=spydeey&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center" width="100%">
+</p>
+
+<p>
+</p>
