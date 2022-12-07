@@ -1,10 +1,10 @@
-```python
-Hi there 👋  My name is A😎, I am a  Full-Stack Developer with a hidden side-love for digital 
-marketing. My web journey began all the way back in 2021 when I was 22-years old and started a 
-small gig doing SEO work for websites. I’d optimise the scriptdata, the texts, and do some link 
+
+>Hi there 👋  My name is A😎, I am a  Full-Stack Developer with a hidden side-love for digital<b>
+>marketing. My web journey began all the way back in 2021 when I was 22-years old and started a <b>
+small gig doing SEO work for websites. I’d optimise the scriptdata, the texts, and do some link <b>
 building. This got me interested in websites Development.
-```
-### 🛠️ Languages and tools
+
+## 🛠️ Languages and tools
 </br>
 
 <p align="left" float="auto">
