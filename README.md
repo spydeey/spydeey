@@ -51,6 +51,8 @@ building. This got me interested in websites Development.
   
 ## For Enquiries:
 <a href="http://www.instagram.com/A" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" align="right"/> <a href="https://www.facebook.com/A" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" align="right" /></a><a href="https://www.github.com/Spydeey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" align="right"/></a> <a href="https://www.linkedin.com/in/A" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" align="right"/></a> <a href="https://www.twitter.com/A" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" align="right" /></a>
-  
+
+![Visitor Count](https://profile-counter.glitch.me/{Universitywits1}/count.svg)
+
 </p>
 
