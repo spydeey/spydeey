@@ -46,3 +46,9 @@ building. This got me interested in websites Development.
 </p>
 
 </details>
+<img src="https://github-stats-alpha.vercel.app/api/?username=spydeey&cc=000&tc=00ff00&ic=fff000&bc=fff" align="right" height="220" width="210" />
+<img src="./assets/hello-light.gif#gh-dark-mode-only" align="right" height="220" width="210" />
+
+<h1>Ola Amigos!</h1>
+<h2>Me Ritam</h2>
+<h3>Nice to meet ya</h3>
