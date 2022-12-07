@@ -1,11 +1,12 @@
+<hr>
 
 >Hi there 👋  My name is A😎, I am a  Full-Stack Developer with a hidden side-love for digital<b>
 >marketing. My web journey began all the way back in 2021 when I was 22-years old and started a <b>
 small gig doing SEO work for websites. I’d optimise the scriptdata, the texts, and do some link <b>
 building. This got me interested in websites Development.
-
-## 🛠️ Languages and tools
-</br>
+<hr>
+  
+### 🛠️ Languages and tools</br>
 
 <p align="left" float="auto">
 <a href="https://www.python.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="45" height="45" alt="Python" /></a>             
@@ -22,11 +23,12 @@ building. This got me interested in websites Development.
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="45" height="45" alt="NodeJS" /></a>
 </p>
 
-
+<hr>
 
 
 
 ### 📊 Stats Details
+
 <details>
 
 <p align="center">
@@ -42,9 +44,12 @@ building. This got me interested in websites Development.
 
 </details>
   
-  
-  ### For Enquiries 
+ <hr>
+   
 
-<p align="center" padding="true"> <a href="https://www.github.com/mohamedsabith" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/zaabith_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohamed-sabith-mp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mohamedsabithmp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://www.facebook.com/sabith.shazz.18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+<p>
+  
+## For Enquiries:
+<a href="https://www.github.com/Spydeey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" align="right"/></a> <a href="http://www.instagram.com/A" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" align="right"/></a> <a href="https://www.linkedin.com/in/A" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" align="right"/></a> <a href="https://www.twitter.com/A" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" align="right" /></a><a href="https://www.facebook.com/A" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" align="right" /></a>
 </p>
 
