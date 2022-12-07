@@ -24,10 +24,6 @@ building. This got me interested in websites Development.
 
 
 
-### Socials
-
-<p align="left" padding="20px"> <a href="https://www.github.com/mohamedsabith" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/zaabith_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohamed-sabith-mp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mohamedsabithmp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://www.facebook.com/sabith.shazz.18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-</p>
 
 
 ### 📊 Stats Details
@@ -37,7 +33,6 @@ building. This got me interested in websites Development.
 <img src="https://github-stats-alpha.vercel.app/api/?username=spydeey&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center" width="100%">
 
 ---
-### 📊 Stats 
 
 [![Metrics](https://metrics.lecoq.io/spydeey?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://spydeey.me)
 
@@ -46,9 +41,10 @@ building. This got me interested in websites Development.
 </p>
 
 </details>
-<img src="https://github-stats-alpha.vercel.app/api/?username=spydeey&cc=000&tc=00ff00&ic=fff000&bc=fff" align="right" height="220" width="210" />
-<img src="./assets/hello-light.gif#gh-dark-mode-only" align="right" height="220" width="210" />
+  
+  
+  ### For Enquiries 
 
-<h1>Ola Amigos!</h1>
-<h2>Me Ritam</h2>
-<h3>Nice to meet ya</h3>
+<p align="left" padding="20px"> <a href="https://www.github.com/mohamedsabith" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/zaabith_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohamed-sabith-mp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mohamedsabithmp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://www.facebook.com/sabith.shazz.18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+</p>
+
