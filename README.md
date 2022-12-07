@@ -7,28 +7,20 @@ building. This got me interested in websites Development.
 #### 
 [![telegram badge](https://img.shields.io/badge/ContactMe-30302f?style=for-the-badge&logo=telegram)](https://t.me/genaral7)
 
+<p align="center">
+  <img width="120px" height="50px" src="https://img.shields.io/badge/-JavaScript-grey?style=flat-square&logo=javascript" />
+  <img width="120px" "height="50px" src="https://img.shields.io/badge/-Node.js-orange?style=flat-square&logo=Node.js" />
+  <img width="50px" height="50px" src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
+  <img width="90px" height="50px" src="https://img.shields.io/badge/-CSS-silver?style=flat-square&logo=css3&logoColor=1572b6" />
+  <img width="90px" height="50px" src="https://img.shields.io/badge/-Git-navy?style=flat-square&logo=git" />
+  <img width="90px" height="50px" src="https://img.shields.io/badge/-GitHub-blue?style=flat-square&logo=github" /> 
+  <img width="90px" height="50px" src="https://img.shields.io/badge/-PYTHON-gold?style=flat-square&logo=python" />  
+  <img width="90px" height="50px" src="https://img.shields.io/badge/-MANGODB-green?style=flat-square&logo=MangoDb" />
+  <img width="90px" height="50px" src="https://img.shields.io/badge/-REACT-indigo?style=flat-square&logo=react" />
+  <img width="90px" height="50px" src="https://img.shields.io/badge/-EXPRESS-blue?style=flat-square&logo=express" /> <br>
 
 
-
-
-
-
-
-
-
-
-
-
-
-[<img align="center" alt="Python" width="39px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
-[<img align="center" alt="Visual Studio Code" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="GitHub" width="38px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
-[<img align="left" alt="Linux" width="38px" src="https://www.freepnglogos.com/uploads/javascript/difference-between-linux-and-window-operating-system-3.png" />](https://www.linux.org/)
-[<img align="left" alt="Mango Db" width="38px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />](https://www.ubuntu.com)
-[<img align="left" alt="Heroku" width="38px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />](https://heroku.com/)
-
-<br />
-<br />
+</p>
 
 <details>
 Spydeey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
